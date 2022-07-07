@@ -15,3 +15,6 @@
 17-7 Handle multiple conditions, and or
 
 17-8 (Advanced) Multi stage condition and nested conditions
+
+17-9 Module summary and two more comparisons
+
