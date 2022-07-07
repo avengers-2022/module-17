@@ -4,3 +4,6 @@
 
 17-2 Declare Array, array length and array index
 
+17-3 Array index, get and set by index, indexOf
+
+
