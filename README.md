@@ -13,3 +13,5 @@
 17-6 Make conditional decision, if-else, comparison
 
 17-7 Handle multiple conditions, and or
+
+17-8 (Advanced) Multi stage condition and nested conditions
