@@ -6,4 +6,5 @@
 
 17-3 Array index, get and set by index, indexOf
 
+17-4 Add or remove element from array using push, pop
 
