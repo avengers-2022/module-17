@@ -11,3 +11,5 @@
 17-5 Compare variables and Comparison operator
 
 17-6 Make conditional decision, if-else, comparison
+
+17-7 Handle multiple conditions, and or
