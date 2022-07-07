@@ -8,3 +8,4 @@
 
 17-4 Add or remove element from array using push, pop
 
+17-5 Compare variables and Comparison operator
